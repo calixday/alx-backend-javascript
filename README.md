@@ -1,2 +1,1 @@
-# alx-backend-javascript
-Diving into Backend
+ES6 Basics
